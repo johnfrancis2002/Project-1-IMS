@@ -21,4 +21,5 @@ In Sales Details File, I have done as in the below Statement >>>
 7. Next, I have Written the Code to Generate the Bill for Purchasing the Products.
 8. Next, I have Stored the Customer Purchased Product Details in Sales Details.
 
+About Myself
 Myself John Francis D from Bangalore, Iam Studying Mechanical Engineering in RNS Institute of Technology, I have learnt the Python by doing this Internship. Thank You Elite Techno Group...!
